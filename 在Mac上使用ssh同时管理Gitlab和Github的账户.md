@@ -34,7 +34,7 @@ pbcopy < ~/.ssh/id_rsa_github.pub
 
 在`github`登录你的账号，进入如下`Settings > SSH and GPG Keys > New SSH key`位置，粘贴公钥。
 
-![image.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8356e285eeb347fdad747defee411da6~tplv-k3u1fbpfcp-zoom-in-crop-mark:1304:0:0:0.awebp)
+![image-20220613163425475](/Users/fintopia/Desktop/慎独/image-20220613163425475.png)
 
 ### Gitlab配置公钥
 
