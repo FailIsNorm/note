@@ -63,7 +63,7 @@ vi ~/.ssh/config
 
 以如下内容为模板更改配置
 
-```
+```powershell
 # Personal github account
 Host github.com
    HostName github.com
