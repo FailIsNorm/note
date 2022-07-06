@@ -46,3 +46,18 @@ export default {
   />
 ```
 
+### css 内置属性
+
+```css
+.watermark {
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        top: 0;
+        pointer-events: none;
+        z-index: 800;
+        opacity: 60%;
+    }
+```
+
